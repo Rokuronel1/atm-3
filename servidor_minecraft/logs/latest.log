@@ -131,3 +131,21 @@
 [00:34:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [00:34:54] [Server thread/WARN] [FML]: Thaumcraft loaded a new chunk [6, 115] in dimension 0 (overworld) while populating chunk [8, 115], causing cascading worldgen lag.
 [00:34:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:35:15] [Server thread/WARN] [FML]: Quark loaded a new chunk [23, 117] in dimension 0 (overworld) while populating chunk [22, 117], causing cascading worldgen lag.
+[00:35:15] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:35:15] [Server thread/WARN] [FML]: Quark loaded a new chunk [23, 118] in dimension 0 (overworld) while populating chunk [22, 117], causing cascading worldgen lag.
+[00:35:15] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:36:15] [Server thread/WARN] [FML]: Quark loaded a new chunk [26, 132] in dimension 0 (overworld) while populating chunk [27, 131], causing cascading worldgen lag.
+[00:36:15] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:36:15] [Server thread/WARN] [FML]: Quark loaded a new chunk [27, 132] in dimension 0 (overworld) while populating chunk [27, 131], causing cascading worldgen lag.
+[00:36:15] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:36:59] [Server thread/WARN] [FML]: Quark loaded a new chunk [12, 139] in dimension 0 (overworld) while populating chunk [12, 138], causing cascading worldgen lag.
+[00:36:59] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:37:41] [Server thread/WARN] [FML]: Quark loaded a new chunk [31, 146] in dimension 0 (overworld) while populating chunk [30, 146], causing cascading worldgen lag.
+[00:37:41] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:40:57] [Server thread/WARN] [FML]: Quark loaded a new chunk [18, 177] in dimension 0 (overworld) while populating chunk [18, 176], causing cascading worldgen lag.
+[00:40:57] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:40:57] [Server thread/WARN] [FML]: Quark loaded a new chunk [17, 177] in dimension 0 (overworld) while populating chunk [18, 176], causing cascading worldgen lag.
+[00:40:57] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:44:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: caaminn has made the advancement [Shinies Acquired!]
+[00:47:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: caaminn has made the advancement [Better Pickaxe]
