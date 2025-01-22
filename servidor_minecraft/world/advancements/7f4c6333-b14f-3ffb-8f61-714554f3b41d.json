@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "silentgems:get_super_gem": {
+    "criteria": {
+      "gem_regular": "2025-01-22 01:07:47 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2025-01-21 23:33:20 +0000"
@@ -689,6 +695,13 @@
     },
     "done": true
   },
+  "silentgems:gem_all_gems_overworld": {
+    "criteria": {
+      "gem1": "2025-01-22 01:07:47 +0000",
+      "gem7": "2025-01-22 01:08:08 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2025-01-21 23:33:20 +0000"
@@ -703,6 +716,12 @@
       "creeper": "2025-01-21 23:45:33 +0000"
     },
     "done": false
+  },
+  "silentgems:get_pickaxe": {
+    "criteria": {
+      "get_item": "2025-01-22 01:14:55 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
@@ -785,6 +804,12 @@
   "minecraft:recipes/building_blocks/chiseled_stonebrick": {
     "criteria": {
       "has_stonebrick": "2025-01-21 23:44:01 +0000"
+    },
+    "done": true
+  },
+  "silentgems:get_gem": {
+    "criteria": {
+      "get_item": "2025-01-22 01:07:47 +0000"
     },
     "done": true
   },

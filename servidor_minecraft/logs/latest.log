@@ -171,3 +171,26 @@
 [01:04:31] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [01:04:31] [Server thread/WARN] [FML]: Quark loaded a new chunk [21, 183] in dimension 0 (overworld) while populating chunk [20, 182], causing cascading worldgen lag.
 [01:04:31] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:06:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Server Backup started!
+[01:06:05] [File IO Thread/INFO] [FTB Backups]: Backing up 71 files...
+[01:06:05] [File IO Thread/INFO] [FTB Backups]: Compressing 71 files...
+[01:06:08] [File IO Thread/INFO] [FTB Backups]: Done compressing in 00:03 seconds (38.0MB)!
+[01:06:08] [File IO Thread/INFO] [FTB Backups]: Created /workspaces/atm-3/servidor_minecraft/./backups/2025-01-22-01-06-05.zip from /workspaces/atm-3/servidor_minecraft/./world
+[01:06:08] [File IO Thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Server backup done in 00:03! (38.0MB)
+[01:06:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: caaminn was slain by Zombie
+[01:06:18] [Server thread/INFO] [tombmanygraves]: [TombManyGraves]: caaminn died in dimension 0 at BlockPos{x=418, y=32, z=2885}. Their grave may be near!
+[01:06:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Teleported caaminn to Rokuronel1
+[01:06:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: caaminn was slain by Zombie
+[01:06:38] [Server thread/INFO] [tombmanygraves]: [TombManyGraves]: caaminn died in dimension 0 at BlockPos{x=419, y=32, z=2883}. Their grave may be near!
+[01:06:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Teleported caaminn to Rokuronel1
+[01:07:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rokuronel1 has made the advancement [Shinies Acquired!]
+[01:12:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rokuronel1 was shot by Skeleton
+[01:12:15] [Server thread/INFO] [tombmanygraves]: [TombManyGraves]: Rokuronel1 died in dimension 0 at BlockPos{x=343, y=32, z=2951}. Their grave may be near!
+[01:12:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Teleported Rokuronel1 to caaminn
+[01:13:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rokuronel1 got revenge on Skeleton
+[01:14:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: caaminn was shot by Skeleton
+[01:14:02] [Server thread/INFO] [tombmanygraves]: [TombManyGraves]: caaminn died in dimension 0 at BlockPos{x=343, y=32, z=2937}. Their grave may be near!
+[01:14:03] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[01:14:03] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[01:14:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Teleported caaminn to Rokuronel1
+[01:14:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rokuronel1 has made the advancement [Better Pickaxe]
