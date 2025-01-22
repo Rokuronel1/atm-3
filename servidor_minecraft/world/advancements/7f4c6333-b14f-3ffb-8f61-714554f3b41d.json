@@ -185,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-01-22 00:06:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2025-01-21 23:25:54 +0000"
@@ -360,6 +366,12 @@
     },
     "done": true
   },
+  "enderioconduits:root": {
+    "criteria": {
+      "inv_changed-enderio:clay": "2025-01-22 00:06:01 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2025-01-21 23:33:20 +0000"
@@ -489,8 +501,10 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2025-01-21 23:40:08 +0000",
+      "beaches": "2025-01-22 00:06:44 +0000",
       "forest_hills": "2025-01-21 23:57:13 +0000",
       "plains": "2025-01-21 23:24:50 +0000",
+      "ocean": "2025-01-22 00:06:55 +0000",
       "river": "2025-01-22 00:01:26 +0000"
     },
     "done": false

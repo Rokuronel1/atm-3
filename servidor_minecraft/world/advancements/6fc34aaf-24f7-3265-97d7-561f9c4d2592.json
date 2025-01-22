@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-01-22 00:04:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2025-01-21 23:54:21 +0000"
@@ -362,9 +368,10 @@
   "enderioconduits:root": {
     "criteria": {
       "inv_changed-enderio:gravel": "2025-01-22 00:01:33 +0000",
-      "inv_changed-enderio:clay": "2025-01-22 00:02:05 +0000"
+      "inv_changed-enderio:clay": "2025-01-22 00:02:05 +0000",
+      "inv_changed-enderio:sand": "2025-01-22 00:06:31 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
@@ -381,6 +388,12 @@
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2025-01-21 23:54:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-01-22 00:04:59 +0000"
     },
     "done": true
   },
@@ -405,6 +418,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-01-21 23:52:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-01-22 00:04:59 +0000"
     },
     "done": true
   },
@@ -452,6 +471,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "beaches": "2025-01-22 00:06:31 +0000",
       "plains": "2025-01-21 23:46:49 +0000",
       "river": "2025-01-22 00:00:50 +0000"
     },
@@ -460,6 +480,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-01-21 23:59:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-01-22 00:06:31 +0000"
     },
     "done": true
   },
@@ -559,6 +585,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-01-22 00:04:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2025-01-21 23:44:37 +0000"
@@ -568,6 +600,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-22 00:01:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-01-22 00:04:59 +0000"
     },
     "done": true
   },
