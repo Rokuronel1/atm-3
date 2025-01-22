@@ -372,6 +372,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-01-22 01:21:56 +0000"
+    },
+    "done": true
+  },
   "enderioconduits:root": {
     "criteria": {
       "inv_changed-enderio:clay": "2025-01-22 00:06:01 +0000"
@@ -399,6 +405,12 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-01-21 23:21:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/noteblock": {
+    "criteria": {
+      "has_redstone": "2025-01-22 01:21:56 +0000"
     },
     "done": true
   },
@@ -441,6 +453,12 @@
   "silentgems:get_glow_rose": {
     "criteria": {
       "get_items": "2025-01-21 23:40:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-01-22 01:21:56 +0000"
     },
     "done": true
   },
@@ -554,6 +572,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-01-21 23:31:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-01-22 01:21:56 +0000"
     },
     "done": true
   },
@@ -689,6 +713,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-01-22 01:21:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "entered_water": "2025-01-21 23:21:23 +0000"
@@ -697,7 +727,9 @@
   },
   "silentgems:gem_all_gems_overworld": {
     "criteria": {
+      "gem14": "2025-01-22 01:22:09 +0000",
       "gem1": "2025-01-22 01:07:47 +0000",
+      "gem3": "2025-01-22 01:17:46 +0000",
       "gem7": "2025-01-22 01:08:08 +0000"
     },
     "done": false
@@ -732,6 +764,18 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-01-21 23:47:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_at_least_9_redstone": "2025-01-22 01:21:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-01-22 01:21:56 +0000"
     },
     "done": true
   },

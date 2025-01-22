@@ -194,3 +194,7 @@
 [01:14:03] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
 [01:14:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Teleported caaminn to Rokuronel1
 [01:14:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rokuronel1 has made the advancement [Better Pickaxe]
+[01:21:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: caaminn has made the advancement [Diamonds!]
+[01:25:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: caaminn was slain by Zombie
+[01:25:18] [Server thread/INFO] [tombmanygraves]: [TombManyGraves]: caaminn died in dimension 0 at BlockPos{x=322, y=29, z=2873}. Their grave may be near!
+[01:25:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Teleported caaminn to Rokuronel1
