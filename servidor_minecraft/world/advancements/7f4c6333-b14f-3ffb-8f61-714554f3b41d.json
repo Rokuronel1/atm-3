@@ -219,6 +219,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-01-22 16:21:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2025-01-21 23:35:59 +0000"
@@ -252,6 +258,12 @@
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2025-01-21 23:33:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-01-22 16:21:01 +0000"
     },
     "done": true
   },
@@ -641,6 +653,7 @@
       "forest_hills": "2025-01-21 23:57:13 +0000",
       "plains": "2025-01-21 23:24:50 +0000",
       "taiga": "2025-01-22 16:19:12 +0000",
+      "taiga_hills": "2025-01-22 16:23:00 +0000",
       "ocean": "2025-01-22 00:06:55 +0000",
       "river": "2025-01-22 00:01:26 +0000"
     },
