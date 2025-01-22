@@ -179,6 +179,12 @@
     },
     "done": true
   },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "flower": "2025-01-22 00:21:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/wooden_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-21 23:27:44 +0000"
@@ -281,6 +287,12 @@
     },
     "done": true
   },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2025-01-22 00:21:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2025-01-21 23:36:01 +0000"
@@ -307,6 +319,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2025-01-22 00:20:32 +0000",
+      "potato": "2025-01-22 00:17:09 +0000",
       "bread": "2025-01-22 00:10:13 +0000",
       "beetroot": "2025-01-22 00:11:14 +0000",
       "carrot": "2025-01-21 23:36:20 +0000"
@@ -519,6 +533,12 @@
     },
     "done": true
   },
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2025-01-22 00:21:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2025-01-21 23:36:01 +0000"
@@ -562,6 +582,7 @@
       "forest": "2025-01-22 00:11:52 +0000",
       "beaches": "2025-01-22 00:10:03 +0000",
       "plains": "2025-01-21 23:36:33 +0000",
+      "ocean": "2025-01-22 00:14:48 +0000",
       "river": "2025-01-21 23:29:35 +0000"
     },
     "done": false
@@ -744,6 +765,7 @@
     "criteria": {
       "skeleton": "2025-01-21 23:35:53 +0000",
       "zombie": "2025-01-21 23:42:13 +0000",
+      "spider": "2025-01-22 00:15:28 +0000",
       "creeper": "2025-01-21 23:35:09 +0000"
     },
     "done": false
