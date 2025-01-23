@@ -492,6 +492,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-01-23 18:07:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-01-22 16:31:26 +0000"
@@ -1247,6 +1253,7 @@
       "taiga": "2025-01-22 16:19:12 +0000",
       "taiga_hills": "2025-01-22 16:23:00 +0000",
       "ocean": "2025-01-22 00:06:55 +0000",
+      "extreme_hills": "2025-01-23 18:06:11 +0000",
       "river": "2025-01-22 00:01:26 +0000"
     },
     "done": false
@@ -1260,6 +1267,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-01-22 16:54:01 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_hammer": {
+    "criteria": {
+      "craft_hammer": "2025-01-23 18:10:01 +0000"
     },
     "done": true
   },
