@@ -2525,3 +2525,11 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:crafting_table'
 [18:33:50] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
 [18:33:50] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/ExtraUtils2_Quarry_Dim
 [18:33:50] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 0
+[18:33:51] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -9999
+[18:33:51] [Server thread/INFO] [FML]: Unloading dimension 0
+[18:33:51] [Server thread/INFO] [FML]: Unloading dimension -9999
+[18:33:51] [Server thread/INFO] [Actually Additions]: Unloaded WorldData!
+[18:33:51] [Server thread/INFO] [mcjtylib_ng]: Cleaning up all world data: 2 data blobs
+[18:33:51] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[18:33:51] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[18:33:51] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
